@@ -108,20 +108,27 @@
 
         <!-- ✅ 📌 검색 기능을 통해 자동으로 정적 URL 생성 -->
         <script>
-        function searchRoute() {
-            let departure = document.getElementById("departure").value.trim();
-            let arrival = document.getElementById("arrival").value.trim();
-
-            if (departure === "" || arrival === "") {
-                alert("출발지와 도착지를 입력해주세요.");
-                return;
+            function searchRoute() {
+                let departure = document.getElementById("departure").value.trim();
+                let arrival = document.getElementById("arrival").value.trim();
+            
+                if (departure === "" || arrival === "") {
+                    alert("출발지와 도착지를 입력해주세요.");
+                    return;
+                }
+            
+                // ✅ 한글 URL 인코딩 (띄어쓰기, 특수문자 문제 해결)
+                let formattedDeparture = encodeURIComponent(departure).replace(/%20/g, "-");
+                let formattedArrival = encodeURIComponent(arrival).replace(/%20/g, "-");
+            
+                // ✅ 최종 URL 생성
+                let formattedUrl = `https://time.issue-manager.co.kr/${formattedDeparture}에서-${formattedArrival}가는-버스-시간표`;
+            
+                // ✅ 페이지 이동
+                window.location.href = formattedUrl;
             }
-
-            // ✅ 검색 시 정적 URL 형태로 이동
-            let formattedUrl = `https://time.issue-manager.co.kr/${departure}에서-${arrival}가는-버스-시간표`;
-            window.location.href = formattedUrl;
-        }
-        </script>
+            </script>
+            
 
     </div>
 
