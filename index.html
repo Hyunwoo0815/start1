@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>전국 시외버스 시간표</title>
+    
+    <!-- ✅ SEO 최적화된 메타태그 -->
+    <meta name="description" content="전국 시외버스 시간표를 확인하세요. 인천에서 서울, 부산, 대전, 광주 등 주요 노선을 제공합니다.">
+    <meta name="keywords" content="시외버스, 고속버스, 버스시간표, 인천-서울, 인천-부산, 인천-대전, 인천-광주">
+    
+    <link rel="canonical" href="https://time.issue-manager.co.kr">
+
+    <style>
+        body {
+            font-family: 'Noto Sans KR', sans-serif;
+            text-align: center;
+            background: #f9f9f9;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        h1 {
+            background: #007BFF;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+            border-radius: 10px 10px 0 0;
+        }
+
+        .routes {
+            text-align: left;
+            margin-top: 20px;
+        }
+
+        .routes a {
+            display: block;
+            padding: 10px;
+            background: #007BFF;
+            color: white;
+            text-decoration: none;
+            margin: 5px 0;
+            border-radius: 5px;
+        }
+
+        .routes a:hover {
+            background: #0056b3;
+        }
+
+        .search-box {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+
+        .search-box input, .search-box button {
+            padding: 10px;
+            margin: 5px;
+            font-size: 16px;
+        }
+
+        .search-box button {
+            background: #FF5722;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .search-box button:hover {
+            background: #E64A19;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div class="container">
+        <h1>🚍 전국 시외버스 시간표</h1>
+        <p>출발지와 도착지를 선택하거나 검색하여 최신 시외버스 시간표를 확인하세요.</p>
+
+        <!-- ✅ 🔍 검색 기능 -->
+        <div class="search-box">
+            <input type="text" id="departure" placeholder="출발지를 입력하세요">
+            <input type="text" id="arrival" placeholder="도착지를 입력하세요">
+            <button onclick="searchRoute()">검색</button>
+        </div>
+
+        <!-- ✅ 🔗 인기 노선 바로가기 -->
+        <div class="routes">
+            <h2>📌 인기 시외버스 노선</h2>
+            <a href="hhttps://time.issue-manager.co.kr/인천에서-서울가는-버스-시간표">인천 → 서울</a>
+            <a href="https://time.issue-manager.co.kr/인천에서-부산가는-버스-시간표">인천 → 부산</a>
+            <a href="https://time.issue-manager.co.kr/인천에서-대전가는-버스-시간표">인천 → 대전</a>
+            <a href="https://time.issue-manager.co.kr/인천에서-광주가는-버스-시간표">인천 → 광주</a>
+            <a href="https://time.issue-manager.co.kr/서울에서-부산가는-버스-시간표">서울 → 부산</a>
+            <a href="https://time.issue-manager.co.kr/서울에서-대전가는-버스-시간표">서울 → 대전</a>
+        </div>
+
+        <!-- ✅ 📌 검색 기능을 통해 자동으로 정적 URL 생성 -->
+        <script>
+        function searchRoute() {
+            let departure = document.getElementById("departure").value.trim();
+            let arrival = document.getElementById("arrival").value.trim();
+
+            if (departure === "" || arrival === "") {
+                alert("출발지와 도착지를 입력해주세요.");
+                return;
+            }
+
+            // ✅ 검색 시 정적 URL 형태로 이동
+            let formattedUrl = `https://time.issue-manager.co.kr/${departure}-에서-${arrival}-가는-버스-시간표/`;
+            window.location.href = formattedUrl;
+        }
+        </script>
+
+    </div>
+
+</body>
+</html>
