@@ -108,18 +108,20 @@
 
         <!-- ✅ 📌 검색 기능을 통해 자동으로 정적 URL 생성 -->
         <script>
-            function searchBus() {
-                let dep = document.getElementById("departure").value.trim();
-                let arr = document.getElementById("arrival").value.trim();
-            
-                if (dep && arr) {
-                    let searchUrl = `https://time.issue-manager.co.kr/${dep}에서-${arr}가는-버스-시간표`;
-                    window.location.href = searchUrl;
-                } else {
-                    alert("출발지와 도착지를 입력해주세요!");
-                }
+        function searchRoute() {
+            let departure = document.getElementById("departure").value.trim();
+            let arrival = document.getElementById("arrival").value.trim();
+
+            if (departure === "" || arrival === "") {
+                alert("출발지와 도착지를 입력해주세요.");
+                return;
             }
-            </script>            
+
+            // ✅ 검색 시 정적 URL 형태로 이동
+            let formattedUrl = `https://time.issue-manager.co.kr/${departure}에서-${arrival}가는-버스-시간표`;
+            window.location.href = formattedUrl;
+        }
+        </script>
 
     </div>
 
