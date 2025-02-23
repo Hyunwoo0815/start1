@@ -2,3 +2,5 @@ User-agent: *
 Disallow:
 
 Sitemap: https://time.issue-manager.co.kr/sitemap.xml
+
+#DaumWebMasterTool:b0c0c1a1c32c82bdc13ca20f778735e7688baf6332c9bc2a245ed6769d1960da:gyy1PocrvZEFZ+RoLGBEVA==
