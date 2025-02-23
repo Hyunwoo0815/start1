@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://time.issue-manager.co.kr/sitemap.xml
