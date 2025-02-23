@@ -4,11 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>전국 시외버스 시간표</title>
-    
+
     <!-- ✅ SEO 최적화된 메타태그 -->
-    <meta name="description" content="전국 시외버스 시간표를 확인하세요. 인천에서 서울, 부산, 대전, 광주 등 주요 노선을 제공합니다.">
-    <meta name="keywords" content="시외버스, 고속버스, 버스시간표, 인천-서울, 인천-부산, 인천-대전, 인천-광주">
-    
+    <meta name="description" content="전국 시외버스 시간표를 검색하세요. 주요 터미널에서 출발하는 노선을 제공합니다.">
+    <meta name="keywords" content="시외버스, 고속버스, 버스 시간표, 출발지 검색, 전국 버스터미널">
     <link rel="canonical" href="https://time.issue-manager.co.kr">
 
     <style>
@@ -36,25 +35,6 @@
             border-radius: 10px 10px 0 0;
         }
 
-        .routes {
-            text-align: left;
-            margin-top: 20px;
-        }
-
-        .routes a {
-            display: block;
-            padding: 10px;
-            background: #007BFF;
-            color: white;
-            text-decoration: none;
-            margin: 5px 0;
-            border-radius: 5px;
-        }
-
-        .routes a:hover {
-            background: #0056b3;
-        }
-
         .search-box {
             margin-top: 20px;
             padding: 15px;
@@ -79,14 +59,43 @@
         .search-box button:hover {
             background: #E64A19;
         }
-    </style>
 
+        .terminal-list {
+            margin-top: 30px;
+            text-align: left;
+        }
+
+        .terminal-list h2 {
+            text-align: center;
+            font-size: 22px;
+            margin-bottom: 15px;
+        }
+
+        .terminal-list .terminal-button {
+            display: block;
+            width: 100%;
+            padding: 12px;
+            margin: 5px 0;
+            background: #007BFF;
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            font-size: 18px;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: 0.3s ease-in-out;
+        }
+
+        .terminal-list .terminal-button:hover {
+            background: #0056b3;
+        }
+    </style>
 </head>
 <body>
 
     <div class="container">
         <h1>🚍 전국 시외버스 시간표</h1>
-        <p>출발지와 도착지를 선택하거나 검색하여 최신 시외버스 시간표를 확인하세요.</p>
+        <p>출발지와 도착지를 입력하여 원하는 버스 노선을 검색하세요.</p>
 
         <!-- ✅ 🔍 검색 기능 -->
         <div class="search-box">
@@ -95,40 +104,42 @@
             <button onclick="searchRoute()">검색</button>
         </div>
 
-        <!-- ✅ 🔗 인기 노선 바로가기 -->
-        <div class="routes">
-            <h2>📌 인기 시외버스 노선</h2>
-            <a href="hhttps://time.issue-manager.co.kr/인천에서-서울가는-버스-시간표">인천 → 서울</a>
-            <a href="https://time.issue-manager.co.kr/인천에서-부산가는-버스-시간표">인천 → 부산</a>
-            <a href="https://time.issue-manager.co.kr/인천에서-대전가는-버스-시간표">인천 → 대전</a>
-            <a href="https://time.issue-manager.co.kr/인천에서-광주가는-버스-시간표">인천 → 광주</a>
-            <a href="https://time.issue-manager.co.kr/서울에서-부산가는-버스-시간표">서울 → 부산</a>
-            <a href="https://time.issue-manager.co.kr/서울에서-대전가는-버스-시간표">서울 → 대전</a>
-        </div>   
+        <!-- ✅ 전국 주요 터미널 리스트 -->
+        <div class="terminal-list">
+            <h2>📌 출발지별 버스 시간표 조회</h2>
+            
+            <a href="인천에서-출발하는-버스-시간표.html" class="terminal-button">인천에서 출발하는 버스 시간표</a>
+            <a href="서울남부에서-출발하는-버스-시간표.html" class="terminal-button">서울남부에서 출발하는 버스 시간표</a>
+            <a href="동서울에서-출발하는-버스-시간표.html" class="terminal-button">동서울에서 출발하는 버스 시간표</a>
+            <a href="대전에서-출발하는-버스-시간표.html" class="terminal-button">대전에서 출발하는 버스 시간표</a>
+            <a href="부산에서-출발하는-버스-시간표.html" class="terminal-button">부산에서 출발하는 버스 시간표</a>
+            <a href="광주에서-출발하는-버스-시간표.html" class="terminal-button">광주에서 출발하는 버스 시간표</a>
+            <a href="춘천에서-출발하는-버스-시간표.html" class="terminal-button">춘천에서 출발하는 버스 시간표</a>
+        </div>
     </div>
 
-    <!-- ✅ 📌 검색 기능을 통해 자동으로 정적 URL 생성 -->
+    <!-- ✅ 검색 기능 -->
     <script>
         function searchRoute() {
             let departure = document.getElementById("departure").value.trim();
             let arrival = document.getElementById("arrival").value.trim();
-        
+
             if (departure === "" || arrival === "") {
                 alert("출발지와 도착지를 입력해주세요.");
                 return;
             }
-        
+
             // ✅ 한글 URL 인코딩 (띄어쓰기, 특수문자 문제 해결)
             let formattedDeparture = encodeURIComponent(departure).replace(/%20/g, "-");
             let formattedArrival = encodeURIComponent(arrival).replace(/%20/g, "-");
-        
+
             // ✅ 최종 URL 생성
             let formattedUrl = `https://time.issue-manager.co.kr/${formattedDeparture}에서-${formattedArrival}가는-버스-시간표`;
-        
-            // ✅ 페이지 이동
+
+            // ✅ 페이지 이동 (현재 창에서 이동)
             window.location.href = formattedUrl;
         }
-        </script>
+    </script>
 
 </body>
 </html>
