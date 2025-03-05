@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>전국 시외버스 시간표 | 출발지 & 도착지 검색</title>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3349170217265964" crossorigin="anonymous"></script>
-    
+
     <!-- 기본 파비콘 -->
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -77,10 +76,11 @@
             text-align: center;
             background: #f9f9f9;
             color: #333;
+            padding: 20px;
         }
 
         .container {
-            max-width: 800px;
+            max-width: 750px;
             margin: auto;
             padding: 20px;
             background: white;
@@ -92,133 +92,98 @@
             background: #007BFF;
             color: white;
             padding: 20px;
-            font-size: 24px;
+            font-size: 28px;
             border-radius: 10px 10px 0 0;
         }
 
-        .search-box {
-            margin-top: 20px;
+        .header-image {
+            width: 100%;
+            max-width: 600px;
+            margin: 20px auto;
+            height: auto;
+        }
+
+        .description {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 20px 20px 30px 20px;
+            line-height: 1.8;
+            background: #eef6ff;
             padding: 15px;
-            background: #f1f1f1;
             border-radius: 10px;
-        }
-
-        .search-box input, .search-box button {
-            padding: 10px;
-            margin: 5px;
-            font-size: 16px;
-        }
-
-        .search-box button {
-            background: #FF5722;
-            color: white;
-            border: none;
-            cursor: pointer;
-            border-radius: 5px;
-        }
-
-        .search-box button:hover {
-            background: #E64A19;
-        }
-
-        .terminal-list {
-            margin-top: 30px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.05);
             text-align: left;
+            max-width: 90%;
         }
 
-        .terminal-list h2 {
+        .region-list {
+            margin-top: 20px;
             text-align: center;
-            font-size: 22px;
-            margin-bottom: 15px;
         }
 
-        .terminal-list .terminal-button {
+        .region-list h2 {
+            font-size: 22px;
+            margin-bottom: 10px;
+        }
+
+        .region-button {
             display: block;
             width: 100%;
-            padding: 12px;
-            margin: 5px 0;
-            background: #007BFF;
+            max-width: 700px;
+            padding: 15px;
+            margin: 12px auto;
+            background: #4A90E2;
             color: white;
             text-decoration: none;
             text-align: center;
-            font-size: 18px;
-            border-radius: 5px;
+            font-size: 20px;
             font-weight: bold;
-            transition: 0.3s ease-in-out;
+            border-radius: 30px;
+            transition: all 0.3s ease-in-out;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
         }
 
-        .terminal-list .terminal-button:hover {
+        .region-button:hover {
             background: #0056b3;
+            transform: scale(1.05);
         }
+
+        /* ✅ 반응형 스타일 */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 22px;
+                padding: 15px;
+            }
+            .description {
+                font-size: 18px;
+                line-height: 1.6;
+                padding: 12px;
+            }
+            .region-button {
+                font-size: 18px;
+                padding: 12px;
+            }
+        }
+        
     </style>
 </head>
 <body>
-
     <div class="container">
-        <h1>🚍 전국 시외버스 시간표</h1>
-        <p>출발지와 도착지를 입력하여 원하는 버스 노선을 검색하세요.</p>
+        <h1>🚍 전국 시외버스터미널 시간표 조회 서비스</h1>
+        <img src="/images/bus-timetable-logo.png" alt="버스터미널 시간표" class="header-image">
+        <p class="description">📌 전국의 시외버스 및 고속버스 시간표를 빠르고 쉽게 확인할 수 있습니다.<br>
+            🏢 수도권, 강원권, 충청권, 호남권, 영남권, 제주권 등 전국 주요 터미널의 출발 및 도착 시간표를 제공합니다.<br>
+            ✅ 아래의 버튼을 클릭하여 원하는 지역의 버스터미널 시간표를 확인하세요!
+        </p>
 
-        <!-- ✅ 🔍 검색 기능 -->
-        <div class="search-box">
-            <input type="text" id="departure" placeholder="출발지를 입력하세요">
-            <input type="text" id="arrival" placeholder="도착지를 입력하세요">
-            <button onclick="searchRoute()">검색</button>
-        </div>
-
-        <!-- ✅ 전국 주요 터미널 리스트 -->
-        <div class="terminal-list">
-            <h2>📌 출발지별 버스 시간표 조회</h2>
-            
-            <a href="인천-에서-출발하는-버스-시간표" class="terminal-button">인천에서 출발하는 버스 시간표</a>
-            <a href="서울남부-에서-출발하는-버스-시간표" class="terminal-button">서울남부에서 출발하는 버스 시간표</a>
-            <a href="동서울-에서-출발하는-버스-시간표" class="terminal-button">동서울에서 출발하는 버스 시간표</a>
-            <a href="대전-에서-출발하는-버스-시간표" class="terminal-button">대전에서 출발하는 버스 시간표</a>
-            <a href="부산-에서-출발하는-버스-시간표" class="terminal-button">부산에서 출발하는 버스 시간표</a>
-            <a href="광주-에서-출발하는-버스-시간표" class="terminal-button">광주에서 출발하는 버스 시간표</a>
-            <a href="춘천-에서-출발하는-버스-시간표" class="terminal-button">춘천에서 출발하는 버스 시간표</a>
-            <a href="고령-에서-출발하는-버스-시간표" class="terminal-button">고령에서 출발하는 버스 시간표</a>
-            <a href="동광양-에서-출발하는-버스-시간표" class="terminal-button">동광양에서 출발하는 버스 시간표</a>
-            <a href="울진-에서-출발하는-버스-시간표" class="terminal-button">울진에서 출발하는 버스 시간표</a>
-            <a href="기지시-에서-출발하는-버스-시간표" class="terminal-button">기지시에서 출발하는 버스 시간표</a>
-            <a href="괴산-에서-출발하는-버스-시간표" class="terminal-button">괴산에서 출발하는 버스 시간표</a>
-            <a href="한서대-에서-출발하는-버스-시간표" class="terminal-button">한서대에서 출발하는 버스 시간표</a>
-            <a href="해미-에서-출발하는-버스-시간표" class="terminal-button">해미에서 출발하는 버스 시간표</a>
-            <a href="고북-에서-출발하는-버스-시간표" class="terminal-button">고북에서 출발하는 버스 시간표</a>
-            <a href="태안-에서-출발하는-버스-시간표" class="terminal-button">태안에서 출발하는 버스 시간표</a>
-            <a href="예산-에서-출발하는-버스-시간표" class="terminal-button">예산에서 출발하는 버스 시간표</a>
-            <a href="청양-에서-출발하는-버스-시간표" class="terminal-button">청양에서 출발하는 버스 시간표</a>
-            <a href="신창-에서-출발하는-버스-시간표" class="terminal-button">신창에서 출발하는 버스 시간표</a>
-            <a href="신례원-에서-출발하는-버스-시간표" class="terminal-button">신례원에서 출발하는 버스 시간표</a>
-            <a href="만리포-에서-출발하는-버스-시간표" class="terminal-button">만리포에서 출발하는 버스 시간표</a>
-            <a href="안면도-에서-출발하는-버스-시간표" class="terminal-button">안면도에서 출발하는 버스 시간표</a>
-            <a href="나주-에서-출발하는-버스-시간표" class="terminal-button">나주에서 출발하는 버스 시간표</a>
-            <a href="녹동-에서-출발하는-버스-시간표" class="terminal-button">녹동에서 출발하는 버스 시간표</a>
-            <a href="주문진-에서-출발하는-버스-시간표" class="terminal-button">주문진에서 출발하는 버스 시간표</a>
-            <a href="장흥-에서-출발하는-버스-시간표" class="terminal-button">장흥에서 출발하는 버스 시간표</a>
-            <a href="영해-에서-출발하는-버스-시간표" class="terminal-button">영해에서 출발하는 버스 시간표</a>
-            <a href="거제(고현)-에서-출발하는-버스-시간표" class="terminal-button">거제(고현)에서 출발하는 버스 시간표</a>
-            <a href="사천-에서-출발하는-버스-시간표" class="terminal-button">사천에서 출발하는 버스 시간표</a>
-            <a href="삼천포-에서-출발하는-버스-시간표" class="terminal-button">삼천포에서 출발하는 버스 시간표</a>
-            <a href="의령-에서-출발하는-버스-시간표" class="terminal-button">의령에서 출발하는 버스 시간표</a>
-            
-            
-            
+        <div class="region-list">
+            <a target="_self" href="수도권-버스터미널-시간표" class="region-button">🗺 수도권 버스터미널 시간표 조회</a>
+            <a target="_self" href="강원권-버스터미널-시간표" class="region-button">🏔 강원권 버스터미널 시간표 조회</a>
+            <a target="_self" href="충청권-버스터미널-시간표" class="region-button">🏙 충청권 버스터미널 시간표 조회</>
+            <a target="_self" href="호남권-버스터미널-시간표" class="region-button">🌾 호남권 버스터미널 시간표 조회</>
+            <a target="_self" href="영남권-버스터미널-시간표" class="region-button">🏝 영남권 버스터미널 시간표 조회</>
+            <a target="_self" href="제주권-버스터미널-시간표" class="region-button">🌴 제주권 버스터미널 시간표 조회</href=>
         </div>
     </div>
-
-    <!-- ✅ 검색 기능 -->
-    <script>
-        function searchRoute() {
-            let departure = document.getElementById("departure").value.trim();
-            let arrival = document.getElementById("arrival").value.trim();
-            if (departure === "" || arrival === "") {
-                alert("출발지와 도착지를 입력해주세요.");
-                return;
-            }
-            let formattedUrl = `https://time.issue-manager.co.kr/${departure}-에서-${arrival}-가는-버스-시간표`;
-            window.location.href = formattedUrl;
-        }
-    </script>
-
 </body>
 </html>
