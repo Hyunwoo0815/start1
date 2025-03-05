@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <link rel="canonical" href="https://time.issue-manager.co.kr/수도권-버스터미널-시간표">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>수도권 시외버스터미널 시간표</title>
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <style>
+        body {
+            font-family: 'Noto Sans KR', sans-serif;
+            text-align: center;
+            background: #f9f9f9;
+            color: #333;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        h1 {
+            background: #007BFF;
+            color: white;
+            padding: 20px;
+            font-size: 28px;
+            border-radius: 10px 10px 0 0;
+        }
+        
+        .header-image {
+            width: 100%;
+            max-width: 600px;
+            margin: 20px auto;
+            height: auto;
+        }
+
+        .description {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 20px auto 30px auto;
+            line-height: 1.8;
+            background: #eef6ff;
+            padding: 15px;
+            border-radius: 10px;
+            text-align: left;
+            max-width: 90%;
+        }
+
+        .terminal-list {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .terminal-button {
+            display: block;
+            width: 100%;
+            max-width: 700px;
+            padding: 15px;
+            margin: 12px auto;
+            background: #4A90E2;
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+            border-radius: 30px;
+            transition: all 0.3s ease-in-out;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .terminal-button:hover {
+            background: #0056b3;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🗺 수도권 시외버스터미널 시간표</h1>
+        <img src="/images/bus-timetable-logo.png" alt="버스터미널 시간표" class="header-image">
+        <p class="description">📌 수도권 주요 시외버스터미널의 출발 및 도착 시간표를 확인하세요.<br>
+            ✅ 아래에서 원하는 터미널을 선택하여 상세 정보를 확인할 수 있습니다.
+        </p>
+
+        <div class="terminal-list">
+            <a href="/terminals/서울남부" class="terminal-button">서울남부터미널</a>
+            <a href="/terminals/동서울" class="terminal-button">동서울터미널</a>
+            <a href="/terminals/상봉" class="terminal-button">상봉터미널</a>
+            <a href="/terminals/인천" class="terminal-button">인천종합터미널</a>
+            <a href="/terminals/수원" class="terminal-button">수원버스터미널</a>
+            <a href="/terminals/성남" class="terminal-button">성남버스터미널</a>
+        </div>
+    </div>
+</body>
+</html>
