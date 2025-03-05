@@ -5,7 +5,7 @@
         <link>https://time.issue-manager.co.kr</link>
         <description>최신 시외버스 시간표 및 요금 정보를 확인하세요.</description>
         <language>ko-KR</language>
-        <lastBuildDate>2025-03-04T16:26:26+09:00</lastBuildDate>
+        <lastBuildDate>2025-03-05T11:08:42+09:00</lastBuildDate>
 
         <item>
             <title>인천 에서 가천대 가는 버스 시간표</title>
@@ -2049,6 +2049,48 @@
             <link>https://time.issue-manager.co.kr/의령-에서-합천-가는-버스-시간표</link>
             <description>의령 에서 합천 가는 버스 시간표 정보를 확인하세요.</description>
             <pubDate>2025-03-04</pubDate>
+        </item>
+            
+        <item>
+            <title>수도권 버스터미널 시간표</title>
+            <link>https://time.issue-manager.co.kr/수도권-버스터미널-시간표</link>
+            <description>수도권 버스터미널 시간표 정보를 확인하세요.</description>
+            <pubDate>2025-03-05</pubDate>
+        </item>
+            
+        <item>
+            <title>강원권 버스터미널 시간표</title>
+            <link>https://time.issue-manager.co.kr/강원권-버스터미널-시간표</link>
+            <description>강원권 버스터미널 시간표 정보를 확인하세요.</description>
+            <pubDate>2025-03-05</pubDate>
+        </item>
+            
+        <item>
+            <title>충청권 버스터미널 시간표</title>
+            <link>https://time.issue-manager.co.kr/충청권-버스터미널-시간표</link>
+            <description>충청권 버스터미널 시간표 정보를 확인하세요.</description>
+            <pubDate>2025-03-05</pubDate>
+        </item>
+            
+        <item>
+            <title>호남권 버스터미널 시간표</title>
+            <link>https://time.issue-manager.co.kr/호남권-버스터미널-시간표</link>
+            <description>호남권 버스터미널 시간표 정보를 확인하세요.</description>
+            <pubDate>2025-03-05</pubDate>
+        </item>
+            
+        <item>
+            <title>경상권 버스터미널 시간표</title>
+            <link>https://time.issue-manager.co.kr/경상권-버스터미널-시간표</link>
+            <description>경상권 버스터미널 시간표 정보를 확인하세요.</description>
+            <pubDate>2025-03-05</pubDate>
+        </item>
+            
+        <item>
+            <title>제주권 버스터미널 시간표</title>
+            <link>https://time.issue-manager.co.kr/제주권-버스터미널-시간표</link>
+            <description>제주권 버스터미널 시간표 정보를 확인하세요.</description>
+            <pubDate>2025-03-05</pubDate>
         </item>
             
     </channel>
