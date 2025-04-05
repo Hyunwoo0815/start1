@@ -5,7 +5,7 @@
         <link>https://time.issue-manager.co.kr</link>
         <description>최신 시외버스 시간표 및 요금 정보를 확인하세요.</description>
         <language>ko-KR</language>
-        <lastBuildDate>Fri, 04 Apr 2025 08:50:21 +0900</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 00:25:47 +0900</lastBuildDate>
 
         <item>
             <title>함안가야 에서 진주 가는 버스 시간표 시간표</title>
@@ -652,31 +652,24 @@
         </item>
         
         <item>
-            <title>고천 시외버스터미널 버스 시간표 시간표</title>
-            <link>https://time.issue-manager.co.kr/고천-시외버스터미널-버스-시간표</link>
-            <description>고천 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
-        </item>
-        
-        <item>
             <title>고천 에서 대전복합 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/고천-에서-대전복합-가는-버스-시간표</link>
             <description>고천 에서 대전복합 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
             <title>고천 에서 원주 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/고천-에서-원주-가는-버스-시간표</link>
             <description>고천 에서 원주 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
             <title>고천 에서 청주 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/고천-에서-청주-가는-버스-시간표</link>
             <description>고천 에서 청주 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
@@ -690,7 +683,7 @@
             <title>고흥 에서 인천 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/고흥-에서-인천-가는-버스-시간표</link>
             <description>고흥 에서 인천 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Wed, 05 Mar 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
@@ -890,59 +883,52 @@
         </item>
         
         <item>
-            <title>광명 시외버스터미널 버스 시간표 시간표</title>
-            <link>https://time.issue-manager.co.kr/광명-시외버스터미널-버스-시간표</link>
-            <description>광명 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
-        </item>
-        
-        <item>
             <title>광명 에서 기지시 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/광명-에서-기지시-가는-버스-시간표</link>
             <description>광명 에서 기지시 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
             <title>광명 에서 당진 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/광명-에서-당진-가는-버스-시간표</link>
             <description>광명 에서 당진 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
             <title>광명 에서 서산 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/광명-에서-서산-가는-버스-시간표</link>
             <description>광명 에서 서산 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
             <title>광명 에서 어송 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/광명-에서-어송-가는-버스-시간표</link>
             <description>광명 에서 어송 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
             <title>광명 에서 운산 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/광명-에서-운산-가는-버스-시간표</link>
             <description>광명 에서 운산 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
             <title>광명 에서 음암 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/광명-에서-음암-가는-버스-시간표</link>
             <description>광명 에서 음암 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
             <title>광명 에서 태안 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/광명-에서-태안-가는-버스-시간표</link>
             <description>광명 에서 태안 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
@@ -956,7 +942,7 @@
             <title>괴산 에서 인천 가는 버스 시간표 시간표</title>
             <link>https://time.issue-manager.co.kr/괴산-에서-인천-가는-버스-시간표</link>
             <description>괴산 에서 인천 가는 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 +0900</pubDate>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
@@ -12983,13 +12969,6 @@
             <link>https://time.issue-manager.co.kr/서울남부-에서-인월-가는-버스-시간표</link>
             <description>서울남부 에서 인월 가는 버스 시간표 정보를 확인하세요.</description>
             <pubDate>Thu, 03 Apr 2025 00:00:00 +0900</pubDate>
-        </item>
-        
-        <item>
-            <title>고한사북공영 시외버스터미널 버스 시간표 시간표</title>
-            <link>https://time.issue-manager.co.kr/고한사북공영-시외버스터미널-버스-시간표</link>
-            <description>고한사북공영 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
-            <pubDate>Mon, 17 Mar 2025 00:00:00 +0900</pubDate>
         </item>
         
         <item>
@@ -37735,6 +37714,797 @@
             <link>https://time.issue-manager.co.kr/강구-시외버스터미널-버스-시간표</link>
             <description>강구 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
             <pubDate>Fri, 04 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 광주(유스퀘어) 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-광주(유스퀘어)-가는-버스-시간표</link>
+            <description>고창 에서 광주(유스퀘어) 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 전주 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-전주-가는-버스-시간표</link>
+            <description>고창 에서 전주 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 군산 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-군산-가는-버스-시간표</link>
+            <description>고창 에서 군산 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 김제 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-김제-가는-버스-시간표</link>
+            <description>고창 에서 김제 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 대야 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-대야-가는-버스-시간표</link>
+            <description>고창 에서 대야 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 부안 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-부안-가는-버스-시간표</link>
+            <description>고창 에서 부안 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 신흥(장수) 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-신흥(장수)-가는-버스-시간표</link>
+            <description>고창 에서 신흥(장수) 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 완산동 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-완산동-가는-버스-시간표</link>
+            <description>고창 에서 완산동 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 운암동 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-운암동-가는-버스-시간표</link>
+            <description>고창 에서 운암동 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 익산 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-익산-가는-버스-시간표</link>
+            <description>고창 에서 익산 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 장성 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-장성-가는-버스-시간표</link>
+            <description>고창 에서 장성 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 장성댐 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-장성댐-가는-버스-시간표</link>
+            <description>고창 에서 장성댐 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 정읍 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-정읍-가는-버스-시간표</link>
+            <description>고창 에서 정읍 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 줄포 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-줄포-가는-버스-시간표</link>
+            <description>고창 에서 줄포 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 효자(서부) 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-효자(서부)-가는-버스-시간표</link>
+            <description>고창 에서 효자(서부) 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 에서 흥덕 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-에서-흥덕-가는-버스-시간표</link>
+            <description>고창 에서 흥덕 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 광주(유스퀘어) 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-광주(유스퀘어)-가는-버스-시간표</link>
+            <description>고흥 에서 광주(유스퀘어) 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 부산서부(사상) 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-부산서부(사상)-가는-버스-시간표</link>
+            <description>고흥 에서 부산서부(사상) 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 목포 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-목포-가는-버스-시간표</link>
+            <description>고흥 에서 목포 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 안산 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-안산-가는-버스-시간표</link>
+            <description>고흥 에서 안산 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 순천 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-순천-가는-버스-시간표</link>
+            <description>고흥 에서 순천 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 강진(전남) 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-강진(전남)-가는-버스-시간표</link>
+            <description>고흥 에서 강진(전남) 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 곡천 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-곡천-가는-버스-시간표</link>
+            <description>고흥 에서 곡천 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 과역 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-과역-가는-버스-시간표</link>
+            <description>고흥 에서 과역 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 광양 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-광양-가는-버스-시간표</link>
+            <description>고흥 에서 광양 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 광영 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-광영-가는-버스-시간표</link>
+            <description>고흥 에서 광영 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 나로도 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-나로도-가는-버스-시간표</link>
+            <description>고흥 에서 나로도 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 나로도(완) 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-나로도(완)-가는-버스-시간표</link>
+            <description>고흥 에서 나로도(완) 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 남성 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-남성-가는-버스-시간표</link>
+            <description>고흥 에서 남성 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 녹동 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-녹동-가는-버스-시간표</link>
+            <description>고흥 에서 녹동 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 녹동신항 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-녹동신항-가는-버스-시간표</link>
+            <description>고흥 에서 녹동신항 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 도화 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-도화-가는-버스-시간표</link>
+            <description>고흥 에서 도화 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 동광양(중마) 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-동광양(중마)-가는-버스-시간표</link>
+            <description>고흥 에서 동광양(중마) 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 백양 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-백양-가는-버스-시간표</link>
+            <description>고흥 에서 백양 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 벌교 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-벌교-가는-버스-시간표</link>
+            <description>고흥 에서 벌교 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 섬진강휴게소 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-섬진강휴게소-가는-버스-시간표</link>
+            <description>고흥 에서 섬진강휴게소 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 소록도 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-소록도-가는-버스-시간표</link>
+            <description>고흥 에서 소록도 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 소태역 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-소태역-가는-버스-시간표</link>
+            <description>고흥 에서 소태역 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 순천역 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-순천역-가는-버스-시간표</link>
+            <description>고흥 에서 순천역 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 여수 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-여수-가는-버스-시간표</link>
+            <description>고흥 에서 여수 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 여천 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-여천-가는-버스-시간표</link>
+            <description>고흥 에서 여천 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 포두 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-포두-가는-버스-시간표</link>
+            <description>고흥 에서 포두 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 학동 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-학동-가는-버스-시간표</link>
+            <description>고흥 에서 학동 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 에서 화순 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-에서-화순-가는-버스-시간표</link>
+            <description>고흥 에서 화순 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>관산 에서 광주(유스퀘어) 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/관산-에서-광주(유스퀘어)-가는-버스-시간표</link>
+            <description>관산 에서 광주(유스퀘어) 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>관산 에서 대덕 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/관산-에서-대덕-가는-버스-시간표</link>
+            <description>관산 에서 대덕 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>관산 에서 회진 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/관산-에서-회진-가는-버스-시간표</link>
+            <description>관산 에서 회진 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>광릉내 에서 인천공항1터미널 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/광릉내-에서-인천공항1터미널-가는-버스-시간표</link>
+            <description>광릉내 에서 인천공항1터미널 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>광릉내 에서 인천공항2터미널 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/광릉내-에서-인천공항2터미널-가는-버스-시간표</link>
+            <description>광릉내 에서 인천공항2터미널 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>광릉내 에서 김포공항 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/광릉내-에서-김포공항-가는-버스-시간표</link>
+            <description>광릉내 에서 김포공항 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>광천(충남) 에서 동서울 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/광천(충남)-에서-동서울-가는-버스-시간표</link>
+            <description>광천(충남) 에서 동서울 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>광천(충남) 에서 인천 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/광천(충남)-에서-인천-가는-버스-시간표</link>
+            <description>광천(충남) 에서 인천 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 동서울 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-동서울-가는-버스-시간표</link>
+            <description>괴산 에서 동서울 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 대전복합 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-대전복합-가는-버스-시간표</link>
+            <description>괴산 에서 대전복합 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 청주 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-청주-가는-버스-시간표</link>
+            <description>괴산 에서 청주 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 충주 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-충주-가는-버스-시간표</link>
+            <description>괴산 에서 충주 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 청주대정류소 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-청주대정류소-가는-버스-시간표</link>
+            <description>괴산 에서 청주대정류소 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 안산 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-안산-가는-버스-시간표</link>
+            <description>괴산 에서 안산 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 감물 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-감물-가는-버스-시간표</link>
+            <description>괴산 에서 감물 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 대사리 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-대사리-가는-버스-시간표</link>
+            <description>괴산 에서 대사리 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 도안 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-도안-가는-버스-시간표</link>
+            <description>괴산 에서 도안 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 마성 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-마성-가는-버스-시간표</link>
+            <description>괴산 에서 마성 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 목도 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-목도-가는-버스-시간표</link>
+            <description>괴산 에서 목도 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 무극 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-무극-가는-버스-시간표</link>
+            <description>괴산 에서 무극 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 문경 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-문경-가는-버스-시간표</link>
+            <description>괴산 에서 문경 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 사리 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-사리-가는-버스-시간표</link>
+            <description>괴산 에서 사리 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 살미 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-살미-가는-버스-시간표</link>
+            <description>괴산 에서 살미 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 생극 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-생극-가는-버스-시간표</link>
+            <description>괴산 에서 생극 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 센트럴 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-센트럴-가는-버스-시간표</link>
+            <description>괴산 에서 센트럴 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 소수 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-소수-가는-버스-시간표</link>
+            <description>괴산 에서 소수 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 수안보 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-수안보-가는-버스-시간표</link>
+            <description>괴산 에서 수안보 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 수전 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-수전-가는-버스-시간표</link>
+            <description>괴산 에서 수전 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 여주태평리 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-여주태평리-가는-버스-시간표</link>
+            <description>괴산 에서 여주태평리 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 연풍 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-연풍-가는-버스-시간표</link>
+            <description>괴산 에서 연풍 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 유목 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-유목-가는-버스-시간표</link>
+            <description>괴산 에서 유목 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 음성 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-음성-가는-버스-시간표</link>
+            <description>괴산 에서 음성 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 이황리 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-이황리-가는-버스-시간표</link>
+            <description>괴산 에서 이황리 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 장호원 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-장호원-가는-버스-시간표</link>
+            <description>괴산 에서 장호원 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 점촌 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-점촌-가는-버스-시간표</link>
+            <description>괴산 에서 점촌 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 증평 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-증평-가는-버스-시간표</link>
+            <description>괴산 에서 증평 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 칠성 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-칠성-가는-버스-시간표</link>
+            <description>괴산 에서 칠성 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 에서 태성 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-에서-태성-가는-버스-시간표</link>
+            <description>괴산 에서 태성 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 청주 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-청주-가는-버스-시간표</link>
+            <description>교통대 에서 청주 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 인천 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-인천-가는-버스-시간표</link>
+            <description>교통대 에서 인천 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 수원 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-수원-가는-버스-시간표</link>
+            <description>교통대 에서 수원 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 청주대정류소 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-청주대정류소-가는-버스-시간표</link>
+            <description>교통대 에서 청주대정류소 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 안산 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-안산-가는-버스-시간표</link>
+            <description>교통대 에서 안산 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 덕산(충북) 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-덕산(충북)-가는-버스-시간표</link>
+            <description>교통대 에서 덕산(충북) 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 도안 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-도안-가는-버스-시간표</link>
+            <description>교통대 에서 도안 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 맹동 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-맹동-가는-버스-시간표</link>
+            <description>교통대 에서 맹동 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 무극 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-무극-가는-버스-시간표</link>
+            <description>교통대 에서 무극 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 보천 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-보천-가는-버스-시간표</link>
+            <description>교통대 에서 보천 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 비산리 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-비산리-가는-버스-시간표</link>
+            <description>교통대 에서 비산리 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 우만동 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-우만동-가는-버스-시간표</link>
+            <description>교통대 에서 우만동 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 율량 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-율량-가는-버스-시간표</link>
+            <description>교통대 에서 율량 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 음성 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-음성-가는-버스-시간표</link>
+            <description>교통대 에서 음성 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 주덕 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-주덕-가는-버스-시간표</link>
+            <description>교통대 에서 주덕 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 증평 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-증평-가는-버스-시간표</link>
+            <description>교통대 에서 증평 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 진천 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-진천-가는-버스-시간표</link>
+            <description>교통대 에서 진천 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 에서 충북혁신도시 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-에서-충북혁신도시-가는-버스-시간표</link>
+            <description>교통대 에서 충북혁신도시 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>구례 에서 서울남부 가는 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/구례-에서-서울남부-가는-버스-시간표</link>
+            <description>구례 에서 서울남부 가는 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>교통대 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/교통대-시외버스터미널-버스-시간표</link>
+            <description>교통대 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>괴산 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/괴산-시외버스터미널-버스-시간표</link>
+            <description>괴산 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>광주(유스퀘어) 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/광주(유스퀘어)-시외버스터미널-버스-시간표</link>
+            <description>광주(유스퀘어) 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>관산 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/관산-시외버스터미널-버스-시간표</link>
+            <description>관산 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고흥 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고흥-시외버스터미널-버스-시간표</link>
+            <description>고흥 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고창 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고창-시외버스터미널-버스-시간표</link>
+            <description>고창 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>구례 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/구례-시외버스터미널-버스-시간표</link>
+            <description>구례 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>광천(충남) 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/광천(충남)-시외버스터미널-버스-시간표</link>
+            <description>광천(충남) 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>광릉내 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/광릉내-시외버스터미널-버스-시간표</link>
+            <description>광릉내 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고천 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고천-시외버스터미널-버스-시간표</link>
+            <description>고천 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>고한사북공영 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/고한사북공영-시외버스터미널-버스-시간표</link>
+            <description>고한사북공영 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
+        </item>
+        
+        <item>
+            <title>광명 시외버스터미널 버스 시간표 시간표</title>
+            <link>https://time.issue-manager.co.kr/광명-시외버스터미널-버스-시간표</link>
+            <description>광명 시외버스터미널 버스 시간표 정보를 확인하세요.</description>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
         </item>
         
     </channel>
