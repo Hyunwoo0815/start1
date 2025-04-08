@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://time.issue-manager.co.kr/</loc>
-        <lastmod>2025-04-06</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>1.0</priority>
     </url>
     <url>
@@ -772,12 +772,12 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/금산-에서-무주-가는-버스-시간표</loc>
-        <lastmod>2025-03-08</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/금산-에서-부리-가는-버스-시간표</loc>
-        <lastmod>2025-03-08</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -5637,7 +5637,7 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군포-에서-장평-가는-버스-시간표</loc>
-        <lastmod>2025-03-14</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -6039,11 +6039,6 @@
         <loc>https://time.issue-manager.co.kr/부산동부-에서-부구-가는-버스-시간표</loc>
         <lastmod>2025-03-28</lastmod>
         <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://time.issue-manager.co.kr/군포-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-03-14</lastmod>
-        <priority>0.9</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/서수원-시외버스터미널-버스-시간표</loc>
@@ -24442,57 +24437,57 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군위-에서-동서울-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군위-에서-인천-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군위-에서-수원-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군위-에서-안산-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군위-에서-구미-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군위-에서-구미공단-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군위-에서-구미인동-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군위-에서-안동-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군위-에서-오산-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군위-에서-태화-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/군위-에서-효령-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -26016,11 +26011,6 @@
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://time.issue-manager.co.kr/군위-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
-        <priority>0.9</priority>
-    </url>
-    <url>
         <loc>https://time.issue-manager.co.kr/의정부-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-04-03</lastmod>
         <priority>0.9</priority>
@@ -27503,6 +27493,461 @@
     <url>
         <loc>https://time.issue-manager.co.kr/광명-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-04-06</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-광주(유스퀘어)-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-대전-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-청주-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-인천-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-인천공항1터미널-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-천안-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-성남-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-수원-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-서산-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-인천공항2터미널-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-세종청사-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-유성-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-당진-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-전주-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-안산-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-마산-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-포항-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-세종-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-대구서부-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-부산동부-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-경주-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-고양(백석)-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-김해-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-남청주-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-내포-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-덕진동-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-보령(대천)-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-양산-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-오산-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-울산-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-태안-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-에서-해미-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군포-에서-강릉-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금강송-에서-동서울-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금릉역-에서-인천공항1터미널-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금릉역-에서-인천공항2터미널-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-유성-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-전주-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-가당리-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-마전(충남)-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-새말-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-송풍-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-안천-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-용덕(전북)-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-운일암-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-적상-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-정천-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-주천-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-에서-진안-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금촌역-에서-인천공항1터미널-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금촌역-에서-인천공항2터미널-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/기흥역-에서-대전-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/기흥역-에서-동대구-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/기흥역-에서-세종청사-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/기흥역-에서-유성-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/기흥역-에서-전주-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/기흥역-에서-구미-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/기흥역-에서-세종-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김제-에서-동서울-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김제-에서-인천-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김제-에서-전주-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김제-에서-군산대-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김제-에서-대전서남부-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김제-에서-익산-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김천부곡(공항)-에서-인천공항1터미널-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김천부곡(공항)-에서-인천공항2터미널-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김천부곡(공항)-에서-구미-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김천부곡(공항)-에서-구미복지-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김천부곡(공항)-에서-대구공항-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-에서-광주(유스퀘어)-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-에서-부산서부(사상)-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-에서-순천-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-에서-고흥-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-에서-벌교-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-에서-섬진강(상행)-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-에서-소태역-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-에서-여수-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-에서-여천-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-에서-학동-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-에서-화순-가는-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/나로도-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금산-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군산-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김천부곡(공항)-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/김제-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/기흥역-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금촌역-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금릉역-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/금강송-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군위-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/군포-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-04-08</lastmod>
         <priority>0.9</priority>
     </url>
 </urlset>
