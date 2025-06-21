@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://time.issue-manager.co.kr/</loc>
-        <lastmod>2025-06-17</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>1.0</priority>
     </url>
     <url>
@@ -4787,7 +4787,7 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-대전복합-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -4797,7 +4797,7 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-보령(대천)-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -4817,12 +4817,12 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-유성-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-인천-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -4842,7 +4842,7 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-홍성-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -6511,6 +6511,11 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-청주북부터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://time.issue-manager.co.kr/경산-에서-인천공항1터미널-가는-버스-시간표</loc>
         <lastmod>2025-04-01</lastmod>
         <priority>0.8</priority>
@@ -7231,6 +7236,11 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-증평-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://time.issue-manager.co.kr/손양-에서-강릉-가는-버스-시간표</loc>
         <lastmod>2025-05-15</lastmod>
         <priority>0.8</priority>
@@ -7258,6 +7268,16 @@
     <url>
         <loc>https://time.issue-manager.co.kr/인천공항1터미널-에서-북서울꿈의숲-가는-버스-시간표</loc>
         <lastmod>2025-05-27</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-진천-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-충북혁신도시-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -7558,6 +7578,11 @@
     <url>
         <loc>https://time.issue-manager.co.kr/인천공항1터미널-에서-북위례입구-가는-버스-시간표</loc>
         <lastmod>2025-05-27</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-코리아텍-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -8918,6 +8943,16 @@
     <url>
         <loc>https://time.issue-manager.co.kr/서울남부-에서-익산왕궁-가는-버스-시간표</loc>
         <lastmod>2025-05-11</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-동서울-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-원주-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -10586,38 +10621,83 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-서울남부-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-청주-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-인천-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-충주-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-수원-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-청주북부터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-감곡-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-괴산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-교통대-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-동서울-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-대전복합-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-청주-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-인천-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-인천공항1터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-천안-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-성남-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -10627,12 +10707,12 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-인천공항2터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-세종청사-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -10647,32 +10727,32 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-포항-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-속초-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-세종-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-대구서부-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-부산동부-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-가천대-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -10682,72 +10762,72 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-고양(백석)-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-김포공항-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-다목리-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-대구북부-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-동해-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-삼척-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-서울고속버스터미널(경부)-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-양양-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-용호리-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-우만동-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-울산-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-원주(직)-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-원통-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/춘천-에서-잠실역-가는-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -11246,11 +11326,6 @@
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://time.issue-manager.co.kr/춘천-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-03-20</lastmod>
-        <priority>0.9</priority>
-    </url>
-    <url>
         <loc>https://time.issue-manager.co.kr/태백-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-03-20</lastmod>
         <priority>0.9</priority>
@@ -11721,6 +11796,11 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-귀래-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://time.issue-manager.co.kr/김해-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-03-21</lastmod>
         <priority>0.9</priority>
@@ -12012,62 +12092,62 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창녕-에서-서울남부-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창녕-에서-부산서부(사상)-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창녕-에서-대구서부-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창녕-에서-남지-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창녕-에서-부곡-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창녕-에서-영산(경남)-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-대전복합-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-원주-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-청주-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-인천-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-인천공항1터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-충주-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -12077,12 +12157,12 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-부산서부(사상)-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-인천공항2터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -12092,37 +12172,37 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-순천-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-구미-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-포항-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-거제(고현)-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-대구서부-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-부산동부-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-거창-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -12132,72 +12212,72 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-고령-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-고성(경남)-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-곤양-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-구미공단-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-구미복지-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-권빈-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-남청주-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-남해-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원역-에서-대구서부-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원역-에서-사천-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원역-에서-사천공항-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원역-에서-사천시청(용현)-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원역-에서-삼천포-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원역-에서-진주-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -12571,23 +12651,28 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://time.issue-manager.co.kr/창원역-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
-        <priority>0.9</priority>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-단성-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://time.issue-manager.co.kr/창원-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
-        <priority>0.9</priority>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-단양-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://time.issue-manager.co.kr/창녕-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
-        <priority>0.9</priority>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-대사리-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/송악신도시-에서-서울남부-가는-버스-시간표</loc>
         <lastmod>2025-05-15</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-도안-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -12597,177 +12682,177 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-대사-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-대치-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-도마-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-동래고교-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-묘산-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-배둔-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-부산동래-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-부산동래(메가마트앞)-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-부산해운대-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-부천-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-분기-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-사곡(거제)-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-사천-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-사천공항-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-사천시청(용현)-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-삼천포-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-상촌-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-술상-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-쌍림-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-안동-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-양산-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-양포-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-언양-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-여수-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-여천-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-오산-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-옥포-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-울산-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-장승포-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-진교-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-진동-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-진주-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-차면-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-통영-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원-에서-현풍-가는-버스-시간표</loc>
-        <lastmod>2025-03-23</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -13537,37 +13622,37 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-동서울-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-대전복합-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-원주-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-청주-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-인천공항1터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-성남-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-충주-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -13577,22 +13662,22 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-서산-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-춘천-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-인천공항2터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-세종청사-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -13602,7 +13687,7 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-당진-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -13622,57 +13707,57 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-공주-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-포항-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-세종-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-청주북부터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-용인-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-가락시장-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-가천대-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-가평-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-갈산-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-강남대-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-강촌-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -13682,522 +13767,522 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-계룡(공주)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-고북-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-고양(백석)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-고한사북공영-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-공도-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-광정-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-광천(충남)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-구룡(당)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-구항-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-군산-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-규암-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-금곡(남양주)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-기지시-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-기흥역-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-김포공항-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-나령-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-남면(태안)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-내포-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-노성-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-논산-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-대교(충남)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-대림동산-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-대성리-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-대전서남부-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-대전청사(선사유적)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-덕성리-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-도농역-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-동성-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-마석-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-만리포-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-명지대-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-모란(공주)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-문막-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-병천-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-보령(대천)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-봉강교-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-봉황(공주)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-부여-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-부천-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-비봉-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-비인-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-사석-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-삽교천-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-상록수-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-상월-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-서천-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-석송-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-성환-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-소원-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-신갈(용인)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-신갈영덕-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-신례원-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-신양-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-신창-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-신평-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-아산(온양)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-아주대-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-안면도-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-안성-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-안성풍림-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-어송-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-영통입구-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-예산-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-용인대-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-운곡-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-운산-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-웅천(보령)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-유구-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-은산(부여)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-음암-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-응봉-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-의정부-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-이인-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-인풍-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-일죽-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-임성동-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-잠실역-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-장지역-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-제천-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-주교-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-주산-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-주포-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-죽산-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-중앙대(안성)-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-증평-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-진천-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-창기리-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-천안아산(KTX)역-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-청소-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-청양-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-청주공항-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-청평-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-충북혁신도시-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-코리아텍-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-탄천-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-태백-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-태안-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-평내-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-평택-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-하마루-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-한서대-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-합덕-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-해미-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안-에서-홍성-가는-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -15111,14 +15196,24 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-맹동-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://time.issue-manager.co.kr/마산-에서-인천공항2터미널-가는-버스-시간표</loc>
         <lastmod>2025-04-20</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://time.issue-manager.co.kr/천안-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-03-26</lastmod>
-        <priority>0.9</priority>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-덕산(제천시)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-덕산(충북)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/인천공항1터미널-에서-산내마을 6.8단지-가는-버스-시간표</loc>
@@ -15512,7 +15607,7 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-동서울-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -15522,387 +15617,387 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-원주-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-서울남부-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-인천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-인천공항1터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-천안-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-성남-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-충주-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-수원-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-춘천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-인천공항2터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-세종청사-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-유성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-전주-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-청주대정류소-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-강릉-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-창원-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-안산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-구미-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-공주-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-마산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-거제(고현)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-세종-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-대구서부-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-이천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-용인-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-감곡-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-고양(백석)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-고한사북공영-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-공근-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-공도-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-관기-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-광혜원-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-괴산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-교통대-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-구미공단-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-구미복지-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-군산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-귀래-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-기흥역-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-낙서-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-남청주-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-노성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-논산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-단성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-단양-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-대사리-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-대소-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-대소원-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-대야-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-대전청사(선사유적)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-덕산(제천시)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-덕산(충북)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-도안-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-맹동-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-목계-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-목행-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-무극-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-문백-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-미원-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-배방정류소-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-백운-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-보은-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-보천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-봉강교-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-봉양-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-봉황(공주)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-부여-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-부천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-북대전IC-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-비산리-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-사리-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-사석-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-산척-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-살미-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-삼성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-상월-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-상주대-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -15912,292 +16007,292 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-상판-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-생극-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-속리산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-수산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-수살리-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-수안보-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-신갈(용인)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-신갈영덕-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-심천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-아산(온양)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-아주대-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-안동-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-안성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-안양역-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-야동-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-엄정-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-연풍-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-영동-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-영통입구-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-예천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-오산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-옥천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-용바위-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-유목-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-음성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-의왕-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-의정부-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-이원-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-이월-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-이인-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-익산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-장내(장안)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-장호원-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-장회-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-적곡(충북)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-적암-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-제천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-조치원-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-주덕-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-죽전-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-중앙대(안성)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-증평-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-진주-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-진천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-창리-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-충북혁신도시-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-칠성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-탄천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-태백-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-태성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-통영-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-평온-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-평택-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-하마루-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-홍천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-화령-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-횡성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청주-에서-흥업-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -16237,342 +16332,342 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-원주-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-청주-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-인천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-인천공항1터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-천안-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-동대구-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-수원-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-인천공항2터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-유성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-전주-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-청주대정류소-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-강릉-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-창원-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-안산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-구미-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-마산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-포항-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-거제(고현)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-청주북부터미널-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-부산동부-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-감곡-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-경주-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-고천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-교통대-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-귀래-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-단양-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-대구북부-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-덕산(충북)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-맹동-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-목계-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-목행-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-무극-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-문경-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-봉양-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-부천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-비산리-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-산척-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-상주-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-생극-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-수살리-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-수안보-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-안양-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-야동-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-엄정-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-연풍-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-연풍괴산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-용원(충북)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-우만동-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-울산-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-음성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-일죽-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-장호원-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-적곡(충북)-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-점촌-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-제천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-주덕-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-증평-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-진천-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-청주공항-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-충북혁신도시-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-칠성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-코리아텍-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-탄지리-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-태성-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-태평리-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-하이닉스-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-호계동-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/충주-에서-흥업-가는-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -18746,19 +18841,14 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://time.issue-manager.co.kr/청주-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://time.issue-manager.co.kr/충주-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-03-27</lastmod>
-        <priority>0.9</priority>
-    </url>
-    <url>
         <loc>https://time.issue-manager.co.kr/수원-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-03-27</lastmod>
         <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-목계-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/당진-시외버스터미널-버스-시간표</loc>
@@ -18769,6 +18859,11 @@
         <loc>https://time.issue-manager.co.kr/전주-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-03-27</lastmod>
         <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-목행-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/송도국제교-에서-KTX 광명역-가는-버스-시간표</loc>
@@ -18824,6 +18919,11 @@
         <loc>https://time.issue-manager.co.kr/거창-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-03-28</lastmod>
         <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-무극-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/부산서부(사상)-에서-서울남부-가는-버스-시간표</loc>
@@ -22292,137 +22392,137 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-서산-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-공주-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-갈산-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-고북-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-공암-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-구항-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-기본-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-기본1-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-기본2-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-기본3-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-기본4-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-기본5-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-기본6-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-기본7-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-기본8-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-기본9-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-내포-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-대치-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-동성-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-마티-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-목면-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-안심-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-어송-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-우성-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-정산-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-태안-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/청양-에서-해미-가는-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -22671,6 +22771,31 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-문백-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-백운-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-보천-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-봉양-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-비산리-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://time.issue-manager.co.kr/인천공항1터미널-에서-삼각지역-가는-버스-시간표</loc>
         <lastmod>2025-05-27</lastmod>
         <priority>0.8</priority>
@@ -22701,9 +22826,24 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-사리-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://time.issue-manager.co.kr/김해공항-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-03-30</lastmod>
         <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-사석-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-산척-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/송정역-에서-목포대-가는-버스-시간표</loc>
@@ -22713,6 +22853,11 @@
     <url>
         <loc>https://time.issue-manager.co.kr/마산-에서-순천-가는-버스-시간표</loc>
         <lastmod>2025-04-20</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-살미-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -23362,52 +23507,52 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원남산-에서-부산서부(사상)-가는-버스-시간표</loc>
-        <lastmod>2025-04-01</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원남산-에서-포항-가는-버스-시간표</loc>
-        <lastmod>2025-04-01</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원남산-에서-거제(고현)-가는-버스-시간표</loc>
-        <lastmod>2025-04-01</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원남산-에서-경주-가는-버스-시간표</loc>
-        <lastmod>2025-04-01</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원남산-에서-동래고교-가는-버스-시간표</loc>
-        <lastmod>2025-04-01</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원남산-에서-부산동래(메가마트앞)-가는-버스-시간표</loc>
-        <lastmod>2025-04-01</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원남산-에서-부산해운대-가는-버스-시간표</loc>
-        <lastmod>2025-04-01</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원남산-에서-양산-가는-버스-시간표</loc>
-        <lastmod>2025-04-01</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원남산-에서-언양-가는-버스-시간표</loc>
-        <lastmod>2025-04-01</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/창원남산-에서-울산-가는-버스-시간표</loc>
-        <lastmod>2025-04-01</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -24026,14 +24171,39 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://time.issue-manager.co.kr/창원남산-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-04-01</lastmod>
-        <priority>0.9</priority>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-생극-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-수산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-수살리-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-수안보-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-신갈영덕-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/경산-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-04-01</lastmod>
         <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-아주대-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/울진-에서-동대구-가는-버스-시간표</loc>
@@ -24388,6 +24558,11 @@
     <url>
         <loc>https://time.issue-manager.co.kr/백담사-에서-안산-가는-버스-시간표</loc>
         <lastmod>2025-04-24</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-야동-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -25867,158 +26042,163 @@
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-인천공항1터미널-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-서산-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-인천공항2터미널-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-당진-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-구룡(당)-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-군산-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-기지시-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-내포-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-보령(대천)-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-봉강교-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-비인-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-서천-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-신례원-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-신창-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-신평-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-아산(온양)-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-안면도-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-어송-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-예산-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-운산-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-웅천(보령)-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-음암-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-주교-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-주산-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-주포-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-창기리-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-청소-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-태안-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-합덕-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/천안아산역-에서-홍성-가는-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://time.issue-manager.co.kr/천안아산역-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-04-03</lastmod>
-        <priority>0.9</priority>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-엄정-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-연풍-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/인천공항1터미널-에서-삼성서울병원-가는-버스-시간표</loc>
@@ -26038,6 +26218,11 @@
     <url>
         <loc>https://time.issue-manager.co.kr/마산-에서-가례-가는-버스-시간표</loc>
         <lastmod>2025-04-20</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-영통입구-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
@@ -32626,6 +32811,16 @@
         <priority>0.9</priority>
     </url>
     <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-용바위-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-유목-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://time.issue-manager.co.kr/괴산-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-04-21</lastmod>
         <priority>0.9</priority>
@@ -32641,9 +32836,14 @@
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://time.issue-manager.co.kr/청양-시외버스터미널-버스-시간표</loc>
-        <lastmod>2025-04-21</lastmod>
-        <priority>0.9</priority>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-음성-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-장호원-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://time.issue-manager.co.kr/송정역-에서-영광-가는-버스-시간표</loc>
@@ -41926,6 +42126,11 @@
         <priority>0.9</priority>
     </url>
     <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-장회-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://time.issue-manager.co.kr/임자(대광)-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-05-27</lastmod>
         <priority>0.9</priority>
@@ -44153,6 +44358,756 @@
     <url>
         <loc>https://time.issue-manager.co.kr/진해-시외버스터미널-버스-시간표</loc>
         <lastmod>2025-06-13</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-서울남부-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-천안-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-성남-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-서산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-갈산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-고북-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-구항-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-남면(태안)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-내포-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-봉강교-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-신례원-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-아산(온양)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-어송-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-예산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-천안아산(KTX)역-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-태안-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-해미-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-에서-홍성-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창원-에서-수원-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창원-에서-안산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창원-에서-경주-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창원남산-에서-부산동부-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창원남산-에서-부산동래-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천마산휴게소-에서-인천공항1터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천마산휴게소-에서-인천공항2터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천마산휴게소-에서-김포공항-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안-에서-수원-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안-에서-유성-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안-에서-전주-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안-에서-강릉-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안-에서-안산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안-에서-경주-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-인천공항1터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-서산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-인천공항2터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-당진-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-구룡(당)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-군산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-기지시-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-내포-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-보령(대천)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-봉강교-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-비인-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-서천-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-신례원-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-신창-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-신평-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-아산(온양)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-안면도-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-어송-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-예산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-운산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-웅천(보령)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-음암-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-주교-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-주산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-주포-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-창기리-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-청소-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-태안-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-합덕-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-에서-홍성-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청구아파트(민락동)-에서-인천공항1터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청구아파트(민락동)-에서-인천공항2터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청북고-에서-인천공항1터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청북고-에서-인천공항2터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청북신도시-에서-인천공항1터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청북신도시-에서-인천공항2터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-동서울-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-구수-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-길안-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-덕천-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-도평(현동)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-부남-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-불로-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-삼창-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-시내-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-안덕-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-안동-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-안동대-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-안동초교-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-용상-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-임동-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-자천-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-진보-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-에서-화목(현서)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주-에서-대전복합-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주-에서-상주-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-대전복합-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-서울남부-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-인천-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-천안-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-충주-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-유성-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-에서-청주대정류소-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-적곡(충북)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-제천-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-주덕-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-증평-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-진천-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-청주공항-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-충북혁신도시-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-칠성-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-태성-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-에서-흥업-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-에서-동서울-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-에서-대구북부-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-에서-법전-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-에서-봉화(경북)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-에서-부대-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-에서-상운-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-에서-안기동-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-에서-안동-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-에서-영주-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-에서-옹천-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-에서-원천-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘천-에서-수원-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘천-에서-강릉-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘천-에서-안산-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘천-에서-경주-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/충북혁신도시-에서-동서울-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/충북혁신도시-에서-대전복합-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/충북혁신도시-에서-서울남부-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/충북혁신도시-에서-인천공항2터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/충북혁신도시-에서-유성-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/충북혁신도시-에서-청주북부터미널-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/충북혁신도시-에서-오송역-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/충주-에서-광주(유스퀘어)-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/충주-에서-대전복합-가는-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천마산휴게소-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘양-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주대정류소-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청송-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산(KTX)역-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창기리-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/충북혁신도시-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주공항-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청북신도시-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청북고-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청구아파트(민락동)-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/충주-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/춘천-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청주-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/청양-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안아산역-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/천안-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창원역-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창원남산-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창원-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://time.issue-manager.co.kr/창녕-시외버스터미널-버스-시간표</loc>
+        <lastmod>2025-06-21</lastmod>
         <priority>0.9</priority>
     </url>
 </urlset>
