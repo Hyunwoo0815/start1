@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3349170217265964"crossorigin="anonymous"></script>
-    <link rel="canonical" href="https://time.issue-manager.co.kr/booking">
     <title>시외버스 예매 안내</title>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3349170217265964" crossorigin="anonymous"></script>
+    <link rel="canonical" href="https://time.issue-manager.co.kr/booking">
     <style>
         * {
             margin: 0;
@@ -33,7 +33,7 @@
             font-size: 2em;
         }
         .discount-section {
-            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
             padding: 25px;
             border-radius: 15px;
@@ -120,7 +120,7 @@
             color: white;
         }
         .btn-tmoney {
-            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            background: linear-gradient(135deg, #00d2ff 0%, #3a7bd5 100%);
             color: white;
         }
         .btn-title {
@@ -200,6 +200,27 @@
             </div>
         </div>
 
+        <h2 style="text-align: center; margin: 30px 0 20px 0; color: #333;">
+            예매 사이트를 선택하세요
+        </h2>
+
+        <div class="reserve-buttons">
+            <button class="btn btn-kobus" onclick="goToReserve('kobus')">
+                <div class="btn-title">코버스(KOBUS)</div>
+                <div class="btn-subtitle">시외버스 통합 예매</div>
+                <div class="btn-cards">
+                    추천: 삼성/하나/BC카드
+                </div>
+            </button>
+            <button class="btn btn-tmoney" onclick="goToReserve('tmoney')">
+                <div class="btn-title">티머니 버스타고</div>
+                <div class="btn-subtitle">시외/고속버스 예매</div>
+                <div class="btn-cards">
+                    추천: 신한/국민/현대카드
+                </div>
+            </button>
+        </div>
+
         <div class="tip-box">
             <h3>💡 할인 적용 팁</h3>
             <p><strong>삼성/하나/BC카드 보유 시</strong> → 코버스 이용 추천<br>
@@ -226,31 +247,6 @@
                 <li><strong>모바일 티켓:</strong> 종이 출력 없이 모바일 티켓으로 승차 가능</li>
             </ul>
         </div>
-
-        <h2 style="text-align: center; margin: 40px 0 20px 0; color: #333;">
-            예매 사이트를 선택하세요
-        </h2>
-
-        <div class="reserve-buttons">
-            <button class="btn btn-kobus" onclick="goToReserve('kobus')">
-                <div class="btn-title">코버스(KOBUS)</div>
-                <div class="btn-subtitle">시외버스 통합 예매</div>
-                <div class="btn-cards">
-                    추천: 삼성/하나/BC카드
-                </div>
-            </button>
-            <button class="btn btn-tmoney" onclick="goToReserve('tmoney')">
-                <div class="btn-title">티머니 버스타고</div>
-                <div class="btn-subtitle">시외/고속버스 예매</div>
-                <div class="btn-cards">
-                    추천: 신한/국민/현대카드
-                </div>
-            </button>
-        </div>
-
-        <p class="notice">
-            * 새 창으로 예매 페이지가 열립니다. 본 페이지는 유지됩니다.
-        </p>
     </div>
 
     <script>
@@ -260,10 +256,8 @@
                 'tmoney': 'https://www.bustago.or.kr'
             };
             
-            // 새 창으로 예매 사이트 열기
-            window.location.href = urls[company]
-            
-            // 현재 페이지는 유지 (사용자가 정보를 다시 확인하거나 비교 가능)
+            // 현재 창에서 예매 사이트로 이동
+            window.location.href = urls[company];
         }
     </script>
 </body>
